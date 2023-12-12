@@ -91,8 +91,8 @@ Here's a list of the challenges I've completed so far:
     - **Description:** Brief description of the problem.
     - **Solution:** [Python Solution](./Day19/solution.py)
 
-20. [Day 20: Challenge Title](./Day20)
-    - **Description:** Brief description of the problem.
+20. [Day 20: Find the Maximum Sum Subarray of Size K](./Day20)
+    - **Description:** Welcome to the Maximum Sum Subarray Daily Code Challenge! In this challenge, you are given an array of integers `Arr` of size `N` and a number `K`. Your task is to find the maximum sum of a subarray of size `K`.
     - **Solution:** [Python Solution](./Day20/solution.py)
 
 21. [Day 21: Maximize Gold Collection in a Mine](./Day21)
