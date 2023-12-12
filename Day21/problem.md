@@ -45,5 +45,5 @@ The path is {(2,0) -> (3,1) -> (2,2) -> (2,3)} or {(2,0) -> (1,1) -> (1,2) -> (0
 
 You do not need to read input or print anything. Your task is to complete the function `maxGold()` which takes the values n, m, and the mine represented as a 2D array of positive integers M as input parameters and returns the maximum amount of gold that can be collected.
 
-**Expected Time Complexity:** O(n*m)
-**Expected Auxiliary Space:** O(n*m)
+**Expected Time Complexity:** O(n * m)
+**Expected Auxiliary Space:** O(n * m)
