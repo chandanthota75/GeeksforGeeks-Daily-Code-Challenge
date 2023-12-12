@@ -25,21 +25,82 @@ Here's a list of the challenges I've completed so far:
    - **Description:** Brief description of the problem.
    - **Solution:** [Python Solution](./Day02/solution.py)
 
-## Directory Structure
-GeeksforGeeks-Daily-Code-Challenge/
-│
-├── Day01/
-│ ├── problem.md
-│ ├── solution.py
-│ └── input.txt
-│
-├── Day02/
-│ ├── problem.md
-│ ├── solution.py
-│ └── input.txt
-│
-└── ...
+3. [Day 3: Challenge Title](./Day03)
+   - **Description:** Brief description of the problem.
+   - **Solution:** [Python Solution](./Day03/solution.py)
 
-## Contributing
+4. [Day 4: Challenge Title](./Day04)
+   - **Description:** Brief description of the problem.
+   - **Solution:** [Python Solution](./Day04/solution.py)
 
-If you'd like to contribute or suggest improvements, please open an issue or submit a pull request. Your contributions are highly appreciated!
+5. [Day 5: Challenge Title](./Day05)
+   - **Description:** Brief description of the problem.
+   - **Solution:** [Python Solution](./Day05/solution.py)
+
+6. [Day 6: Challenge Title](./Day06)
+   - **Description:** Brief description of the problem.
+   - **Solution:** [Python Solution](./Day06/solution.py)
+
+7. [Day 7: Challenge Title](./Day07)
+   - **Description:** Brief description of the problem.
+   - **Solution:** [Python Solution](./Day07/solution.py)
+
+8. [Day 8: Challenge Title](./Day08)
+   - **Description:** Brief description of the problem.
+   - **Solution:** [Python Solution](./Day08/solution.py)
+
+9. [Day 9: Challenge Title](./Day09)
+   - **Description:** Brief description of the problem.
+   - **Solution:** [Python Solution](./Day09/solution.py)
+
+10. [Day 10: Challenge Title](./Day10)
+    - **Description:** Brief description of the problem.
+    - **Solution:** [Python Solution](./Day10/solution.py)
+
+11. [Day 11: Challenge Title](./Day11)
+    - **Description:** Brief description of the problem.
+    - **Solution:** [Python Solution](./Day11/solution.py)
+
+12. [Day 12: Challenge Title](./Day12)
+    - **Description:** Brief description of the problem.
+    - **Solution:** [Python Solution](./Day12/solution.py)
+
+13. [Day 13: Challenge Title](./Day13)
+    - **Description:** Brief description of the problem.
+    - **Solution:** [Python Solution](./Day13/solution.py)
+
+14. [Day 14: Challenge Title](./Day14)
+    - **Description:** Brief description of the problem.
+    - **Solution:** [Python Solution](./Day14/solution.py)
+
+15. [Day 15: Challenge Title](./Day15)
+    - **Description:** Brief description of the problem.
+    - **Solution:** [Python Solution](./Day15/solution.py)
+
+16. [Day 16: Challenge Title](./Day16)
+    - **Description:** Brief description of the problem.
+    - **Solution:** [Python Solution](./Day16/solution.py)
+
+17. [Day 17: Challenge Title](./Day17)
+    - **Description:** Brief description of the problem.
+    - **Solution:** [Python Solution](./Day17/solution.py)
+
+18. [Day 18: Challenge Title](./Day18)
+    - **Description:** Brief description of the problem.
+    - **Solution:** [Python Solution](./Day18/solution.py)
+
+19. [Day 19: Challenge Title](./Day19)
+    - **Description:** Brief description of the problem.
+    - **Solution:** [Python Solution](./Day19/solution.py)
+
+20. [Day 20: Challenge Title](./Day20)
+    - **Description:** Brief description of the problem.
+    - **Solution:** [Python Solution](./Day20/solution.py)
+
+21. [Day 21: Challenge Title](./Day21)
+    - **Description:** Brief description of the problem.
+    - **Solution:** [Python Solution](./Day21/solution.py)
+
+22. [Day 22: Challenge Title](./Day22)
+    - **Description:** Brief description of the problem.
+    - **Solution:** [Python Solution](./Day22/solution.py)
