@@ -1,15 +1,13 @@
-# GeeksforGeeks-Daily-Code-Challenge
+# GeeksforGeeks-Daily-Code-Challenge-Python
 
-This repository is a collection of my daily code challenges from GeekforGeeks. Each day, I tackle a new coding problem to improve my algorithmic and coding skills.
+This repository is a collection of my daily python code challenges from GeekforGeeks. Each day, I tackle a new coding problem to improve my algorithmic and coding skills.
 
 ## Table of Contents
 
 - [Introduction](#introduction)
 - [Challenges](#challenges)
 - [Directory Structure](#directory-structure)
-- [How to Use](#how-to-use)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -21,10 +19,27 @@ Here's a list of the challenges I've completed so far:
 
 1. [Day 1: Challenge Title](./Day01)
    - Description: Brief description of the problem.
-   - Solution: [Solution in Language](./Day01/solution.ext)
+   - Solution: [Solution in Python](./Day01/solution.py)
 
 2. [Day 2: Challenge Title](./Day02)
    - Description: Brief description of the problem.
-   - Solution: [Solution in Language](./Day02/solution.ext)
+   - Solution: [Solution in Python](./Day02/solution.py)
 
-   <!-- Add more challenges as needed -->
+## Directory Structure
+GeeksforGeeks-Daily-Code-Challenge/
+│
+├── Day01/
+│ ├── problem.md
+│ ├── solution.cpp
+│ └── input.txt
+│
+├── Day02/
+│ ├── problem.md
+│ ├── solution.py
+│ └── input.txt
+│
+└── ...
+
+## Contributing
+
+If you'd like to contribute or suggest improvements, please open an issue or submit a pull request. Your contributions are highly appreciated!
