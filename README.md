@@ -95,8 +95,8 @@ Here's a list of the challenges I've completed so far:
     - **Description:** Brief description of the problem.
     - **Solution:** [Python Solution](./Day20/solution.py)
 
-21. [Day 21: Challenge Title](./Day21)
-    - **Description:** Brief description of the problem.
+21. [Day 21: Maximize Gold Collection in a Mine](./Day21)
+    - **Description:** Welcome to the Gold Mine Daily Code Challenge! In this challenge, you are given a gold mine represented as a 2D array where each cell contains the amount of gold in tons. The goal is to find the maximum amount of gold a miner can collect, starting from any row in the first column, and making moves either diagonally up towards the right, to the right, or diagonally down towards the right.
     - **Solution:** [Python Solution](./Day21/solution.py)
 
 22. [Day 22: Challenge Title](./Day22)
