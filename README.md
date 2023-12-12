@@ -18,12 +18,12 @@ Welcome to my Daily Code Challenges repository! In this repository, you'll find 
 Here's a list of the challenges I've completed so far:
 
 1. [Day 1: Challenge Title](./Day01)
-   - Description: Brief description of the problem.
-   - Solution: [Solution in Python](./Day01/solution.py)
+   - **Description:** Brief description of the problem.
+   - **Solution:** [Python Solution](./Day01/solution.py)
 
 2. [Day 2: Challenge Title](./Day02)
-   - Description: Brief description of the problem.
-   - Solution: [Solution in Python](./Day02/solution.py)
+   - **Description:** Brief description of the problem.
+   - **Solution:** [Python Solution](./Day02/solution.py)
 
 ## Directory Structure
 GeeksforGeeks-Daily-Code-Challenge/
