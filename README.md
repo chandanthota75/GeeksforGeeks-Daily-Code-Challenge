@@ -6,8 +6,6 @@ This repository is a collection of my daily python code challenges from GeekforG
 
 - [Introduction](#introduction)
 - [Challenges](#challenges)
-- [Directory Structure](#directory-structure)
-- [Contributing](#contributing)
 
 ## Introduction
 
