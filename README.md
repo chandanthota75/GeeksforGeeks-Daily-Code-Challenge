@@ -30,7 +30,7 @@ GeeksforGeeks-Daily-Code-Challenge/
 │
 ├── Day01/
 │ ├── problem.md
-│ ├── solution.cpp
+│ ├── solution.py
 │ └── input.txt
 │
 ├── Day02/
