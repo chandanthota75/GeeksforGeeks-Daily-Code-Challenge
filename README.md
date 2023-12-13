@@ -102,3 +102,7 @@ Here's a list of the challenges I've completed so far:
 22. [Day 22: Challenge Title](./Day22)
     - **Description:** Brief description of the problem.
     - **Solution:** [Python Solution](./Day22/solution.py)
+
+23. [Day 23: Challenge Title](./Day23)
+    - **Description:** Brief description of the problem.
+    - **Solution:** [Python Solution](./Day23/solution.py)
